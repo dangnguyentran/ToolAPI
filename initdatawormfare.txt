@@ -1,0 +1,6 @@
+query_id=AAHh7RM8AgAAAOHtEzxKqave&user=%7B%22id%22%3A5302906337%2C%22first_name%22%3A%22Tran%22%2C%22last_name%22%3A%22Nguy%C3%AAn%20W-coin%22%2C%22username%22%3A%22dncrpto99%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719215048&hash=243618180221ee41f22f6ffae620ea7bf1c4c6651a0471154041fe634a83179b
+user=%7B%22id%22%3A5302906337%2C%22
+query_id=AAFkgCI6AwAAAGSAIjoH_dDP&user=%7B%22id%22%3A7417790564%2C%22first_name%22%3A%22Big%22%2C%22last_name%22%3A%22Nose%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719215285&hash=1946d3e02bc7cc5217541ca4d7ad7d20dac0b644a40b1cb900b597a8d84f2dcf
+user=%7B%22id%22%3A7417790564%2C%22
+query_id=AAGjMskbAwAAAKMyyRt45QSq&user=%7B%22id%22%3A6908621475%2C%22first_name%22%3A%22BIG%22%2C%22last_name%22%3A%22Mouth%20W-coin%22%2C%22username%22%3A%22Bigmouth97%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719215331&hash=4c37ea6915619f277ade4418e247a90513d170e39ca2ed45a52551efe2567301
+user=%7B%22id%22%3A6908621475%2C%22

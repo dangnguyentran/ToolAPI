@@ -1,0 +1,8 @@
+pip install requests colorama
+npm install
+npm install https-proxy-agent
+npm install axios
+sudo apt-get install expect
+pkg install expect
+pkg install expect python
+sed -i 's/\r$//' #

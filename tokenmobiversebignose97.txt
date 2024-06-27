@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7417790564%2C%22first_name%22%3A%22Big%22%2C%22last_name%22%3A%22Nose%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=2758086962303779519&chat_type=private&start_param=Mobiverse_5302906337&auth_date=1719377034&hash=d867bfff383b3d008ba3e328b7491089ae18d3d5e2d53833f5d61ea591f0ab57

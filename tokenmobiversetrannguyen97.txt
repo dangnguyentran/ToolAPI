@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A5302906337%2C%22first_name%22%3A%22Tran%22%2C%22last_name%22%3A%22Nguy%C3%AAn%20W-coin%22%2C%22username%22%3A%22dncrpto99%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-2367625478066514301&chat_type=sender&auth_date=1719369464&hash=4559098c832b55709803c46f6135b4b5e8020d450d347656bd3cc5015e83586d
